@@ -61,6 +61,11 @@
 			<version>1.19.1</version>
 		</dependency>
 
+		<!-- Add for h2 database in-memory-->
+		<dependency>
+			<groupId>com.h2database</groupId>
+			<artifactId>h2</artifactId>
+		</dependency>
 	</dependencies>
 
 	<build>
